@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Kirka.io Kill Feed Monitor v5
+// @name         HEADSHOT KILL CS2 
 // @namespace    http://tampermonkey.net/
 // @version      0.5
 // @description  Monitor kill feed in kirka.io with headshot detection and sound
-// @author       Your Name
+// @author       darkness1
 // @match        https://*.kirka.io/*
 // @grant        none
 // ==/UserScript==
